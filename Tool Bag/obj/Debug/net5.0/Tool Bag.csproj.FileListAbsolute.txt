@@ -1,0 +1,16 @@
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\bin\Debug\net5.0\Tool Bag.exe
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\bin\Debug\net5.0\Tool Bag.deps.json
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\bin\Debug\net5.0\Tool Bag.runtimeconfig.json
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\bin\Debug\net5.0\Tool Bag.runtimeconfig.dev.json
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\bin\Debug\net5.0\Tool Bag.dll
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\bin\Debug\net5.0\ref\Tool Bag.dll
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\bin\Debug\net5.0\Tool Bag.pdb
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\obj\Debug\net5.0\Tool Bag.csproj.AssemblyReference.cache
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\obj\Debug\net5.0\Tool Bag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\obj\Debug\net5.0\Tool Bag.AssemblyInfoInputs.cache
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\obj\Debug\net5.0\Tool Bag.AssemblyInfo.cs
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\obj\Debug\net5.0\Tool Bag.csproj.CoreCompileInputs.cache
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\obj\Debug\net5.0\Tool Bag.dll
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\obj\Debug\net5.0\ref\Tool Bag.dll
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\obj\Debug\net5.0\Tool Bag.pdb
+C:\Users\draye\source\repos\MyToolKit\Tool Bag\obj\Debug\net5.0\Tool Bag.genruntimeconfig.cache
