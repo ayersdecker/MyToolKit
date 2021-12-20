@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-// Decker Ayers NMAD 180 PJT 3
+// Decker Ayers December 2021
+// Helper Class
 
 namespace Tool_Bag
 {
